@@ -39,12 +39,12 @@
 
 // Question no 04
 
-var name1 = "PIZZA"
-var name2 = "PIZZ"
-var name3 = "PIZ"
-var name4 = "PI"
-var name5 = "P"
-alert (name1 + "\n" + name2+ "\n" + name3+ "\n" + name4+ "\n" + name5)
+// var name1 = "PIZZA"
+// var name2 = "PIZZ"
+// var name3 = "PIZ"
+// var name4 = "PI"
+// var name5 = "P"
+// alert (name1 + "\n" + name2+ "\n" + name3+ "\n" + name4+ "\n" + name5)
 
 // Question no 05
 
@@ -54,7 +54,7 @@ alert (name1 + "\n" + name2+ "\n" + name3+ "\n" + name4+ "\n" + name5)
 // Question no 06
 
 // var book = ("A smarter way to learn js")
-// alert("I am trying to learn from the Book"+ book)
+// alert("I am trying to learn from the Book" + book)
 
 // Question no 07
 
@@ -85,7 +85,7 @@ alert (name1 + "\n" + name2+ "\n" + name3+ "\n" + name4+ "\n" + name5)
 // var on =("on")
 // var Product_title = ("5 T-shirt(s)")
 // var store = ("XYZ Clothing store")
-// document.write ("<b>" + visitor_name + "</b>" + order + "<b>" + Product_title +"</b>" + on + "<b>" + store + "</b>")
+// document.write ("<b>" + visitor_name + "</b>" + " " + order + " " + "<b>" + Product_title +"</b>" + " " + on + " " +  "<b>" + store + "</b>")
 
 // -----------Chapter no 04-------------
 
@@ -105,14 +105,14 @@ alert (name1 + "\n" + name2+ "\n" + name3+ "\n" + name4+ "\n" + name5)
 // var user_name;
 // var $user_name;
 // var username;
-// var userName;
+// var userName;      saylaniWelfairInternationalTrust
 // var user_name;
-// var userName01
+// var userName01      
 
 //--------------illigal--------------
 
 // var 1username; 
-// var USERNAME ="hamza ";
+// var USERNAME ="hamza";
 // var username 
 // console.log(USERNAME);
 // console.log(username)
