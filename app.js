@@ -39,11 +39,12 @@
 
 // Question no 04
 
-// var name = "PIZZA"
-// var name = "PIZZ"
-// var name = "PIZ"
-// var name = "PI"
-// var name = "P"
+var name1 = "PIZZA"
+var name2 = "PIZZ"
+var name3 = "PIZ"
+var name4 = "PI"
+var name5 = "P"
+alert (name1 + "\n" + name2+ "\n" + name3+ "\n" + name4+ "\n" + name5)
 
 // Question no 05
 
@@ -86,7 +87,7 @@
 // var store = ("XYZ Clothing store")
 // document.write ("<b>" + visitor_name + "</b>" + order + "<b>" + Product_title +"</b>" + on + "<b>" + store + "</b>")
 
-// -----------Chapter no 03-------------
+// -----------Chapter no 04-------------
 
 // Question no 01
 
